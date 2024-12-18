@@ -1,5 +1,14 @@
-# 💫 About Me:
-Hello! I'm a 22-year-old data scientist from Beni Suef, Egypt, and a student at Beni-Suef University. I specialize in Python and am passionate about using data to drive meaningful insights and solve complex problems. With a focus on building practical, data-driven solutions, I’m eager to expand my knowledge and contribute to the world of data science.
+<div align="center">
+<img src="https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_720_1280/0/1626753867110?e=2147483647&v=beta&t=JOALVxWjySgR37iCdRMhNGmpCyYYDXlPdWk212JXdII" align="center" style="width: 100%" />
+</div>  
+  
+
+### <div align="center">Hello 👋, I'm Mohamed Abobakr, 
+a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+  
+
+<br/>  
+
 
 
 ## 🌐 Socials:
