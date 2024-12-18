@@ -4,7 +4,7 @@
   
 
 ### <div align="center">Hello 👋, I'm Mohamed Abobakr, 
-a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+</div>  
   
 
 <br/>  
