@@ -3,7 +3,7 @@
 </div>  
 
 # 💫 About Me: 
-I’m Mohamed Abobakr, a Data Science student passionate about uncovering insights and building intelligent solutions. I have completed studies in Data Analysis and Machine Learning, gaining hands-on experience through projects that analyze datasets to extract meaningful insights and build predictive models to solve real-world problems.
+I’m Mohamed Abobakr, a Data Science student passionate about uncovering insights and building intelligent solutions. I have studied Data Analysis and Machine Learning, gaining hands-on experience through projects that analyze datasets to extract meaningful insights and build predictive models to solve real-world problems.
 
 With a strong focus on attention to detail, I strive for accuracy and precision in my work, continuously seeking to learn and innovate in the ever-evolving world of data.
 </div>  
