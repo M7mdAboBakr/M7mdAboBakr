@@ -15,8 +15,8 @@ With a strong focus on attention to detail, I strive for accuracy and precision 
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <a href="https://https://www.python.org/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js"/>
+        <a href="https://www.python.org/" style="color: white;">
+          <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="50" height="50" alt="Next.js"/>
         </a>
         <br>Next.js
       </td>
