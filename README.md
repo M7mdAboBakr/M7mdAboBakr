@@ -21,10 +21,10 @@ With a strong focus on attention to detail, I strive for accuracy and precision 
         <br>Pyton
       </td>
       <td align="center" style="border: none;">
-        <a href="https://tailwindcss.com/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=sql" width="50" height="50" alt="Tailwind CSS"/>
+        <a href="https://www.mysql.com/" style="color: white;">
+          <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50" alt="MySQL"/>
         </a>
-        <br>Tailwind CSS
+        <br>MySQL
       </td>
       <td align="center" style="border: none;">
         <a href="https://reactjs.org/" style="color: white;">
