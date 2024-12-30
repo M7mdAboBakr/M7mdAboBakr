@@ -16,9 +16,9 @@ With a strong focus on attention to detail, I strive for accuracy and precision 
     <tr>
       <td align="center" style="border: none;">
         <a href="https://www.python.org/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=py" width="50" height="50" alt="Next.js"/>
+          <img src="https://skillicons.dev/icons?i=py" width="50" height="50"/>
         </a>
-        <br>Next.js
+        <br>Pyton
       </td>
       <td align="center" style="border: none;">
         <a href="https://tailwindcss.com/" style="color: white;">
