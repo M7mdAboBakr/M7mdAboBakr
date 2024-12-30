@@ -3,7 +3,7 @@
 </div>  
 
 # 💫 About Me:
-I’m Mohamed Abobakr Mohamed, a Data Science student passionate about uncovering insights and building intelligent solutions. I am currently focusing on data analysis and machine learning, gaining hands-on experience through projects that analyze datasets to extract meaningful insights and build predictive models to solve real-world problems.
+### I’m Mohamed Abobakr Mohamed, a Data Science student passionate about uncovering insights and building intelligent solutions. I am currently focusing on data analysis and machine learning, gaining hands-on experience through projects that analyze datasets to extract meaningful insights and build predictive models to solve real-world problems.
 
 ### <div align="left">Hello 👋, I'm Mohamed Abobakr.
 </div>  
