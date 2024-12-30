@@ -7,6 +7,13 @@ I’m Mohamed Abobakr, a Data Science student passionate about uncovering insigh
 
 With a strong focus on attention to detail, I strive for accuracy and precision in my work, continuously seeking to learn and innovate in the ever-evolving world of data.
 </div>  
+
+</div>  
+
+# 🖥️ Tech Skills: 
+
+
+</div> 
   
 
 <br/>  
