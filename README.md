@@ -22,7 +22,7 @@ With a strong focus on attention to detail, I strive for accuracy and precision 
       </td>
       <td align="center" style="border: none;">
         <a href="https://tailwindcss.com/" style="color: white;">
-          <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS"/>
+          <img src="https://skillicons.dev/icons?i=sql" width="50" height="50" alt="Tailwind CSS"/>
         </a>
         <br>Tailwind CSS
       </td>
