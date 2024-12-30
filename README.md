@@ -25,7 +25,7 @@ With a strong focus on attention to detail, I strive for accuracy and precision 
           <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50" alt="MySQL"/>
         </a>
         <br>MySQL
-        
+        <!--
       </td>
       <td align="center" style="border: none;">
         <a href="https://reactjs.org/" style="color: white;">
