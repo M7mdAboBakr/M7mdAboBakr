@@ -50,13 +50,13 @@ With a strong focus on attention to detail, I strive for accuracy and precision 
         </a>
         <br>NumPy
       </td>
-      <!--
       <td align="center" style="border: none;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="color: white;">
-          <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML"/>
+        <a href="https://streamlit.io/" style="color: white;">
+          <img src="https://icon.icepanel.io/Technology/svg/Streamlit.svg" width="50" height="50" alt="Streamlit"/>
         </a>
-        <br>HTML
+        <br>Streamlit
       </td>
+      <!--
       <td align="center" style="border: none;">
         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="color: white;">
           <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS"/>
