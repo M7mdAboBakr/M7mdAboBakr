@@ -34,7 +34,7 @@ With a strong focus on attention to detail, I strive for accuracy and precision 
       </td>
       <td align="center" style="border: none;">
         <a href="https://pandas.pydata.org/" style="color: white;">
-          <img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" alt="Pandas" width="50" height="50"/>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/674px-Pandas_mark.svg.png?20200210000431" alt="Pandas" width="50" height="50"/>
         </a>
         <br>Pandas
       </td>
