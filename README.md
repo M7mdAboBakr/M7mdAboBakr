@@ -32,13 +32,13 @@ With a strong focus on attention to detail, I strive for accuracy and precision 
         </a>
         <br>Sklearn
       </td>
-       <!--
       <td align="center" style="border: none;">
-        <a href="https://www.typescriptlang.org/" style="color: white;">
-          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50"/>
+        <a href="https://pandas.pydata.org/" style="color: white;">
+          <img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" alt="Pandas" width="50" height="50"/>
         </a>
-        <br>TypeScript
+        <br>Pandas
       </td>
+      
       <td align="center" style="border: none;">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
           <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/>
