@@ -25,14 +25,14 @@ With a strong focus on attention to detail, I strive for accuracy and precision 
           <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50" alt="MySQL"/>
         </a>
         <br>MySQL
-        <!--
       </td>
       <td align="center" style="border: none;">
-        <a href="https://reactjs.org/" style="color: white;">
-          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50"/>
+        <a href="https://scikit-learn.org/stable/" style="color: white;">
+          <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ScikitLearn-Dark.svg" alt="sklaern" width="50" height="50"/>
         </a>
-        <br>React
+        <br>Sklearn
       </td>
+       <!--
       <td align="center" style="border: none;">
         <a href="https://www.typescriptlang.org/" style="color: white;">
           <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50"/>
