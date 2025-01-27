@@ -38,13 +38,13 @@ With a strong focus on attention to detail, I strive for accuracy and precision 
         </a>
         <br>Pandas
       </td>
-      <!--
       <td align="center" style="border: none;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
-          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/>
+        <a href="https://plotly.com/" style="color: white;">
+          <img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" alt="Plotly" width="50" height="50"/>
         </a>
-        <br>JavaScript
+        <br>Plotly
       </td>
+      <!--
       <td align="center" style="border: none;">
         <a href="https://jquery.com/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=jquery" width="50" height="50" alt="jQuery"/>
