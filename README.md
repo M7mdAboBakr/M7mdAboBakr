@@ -44,13 +44,13 @@ With a strong focus on attention to detail, I strive for accuracy and precision 
         </a>
         <br>Plotly
       </td>
-      <!--
       <td align="center" style="border: none;">
-        <a href="https://jquery.com/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=jquery" width="50" height="50" alt="jQuery"/>
+        <a href="https://numpy.org/" style="color: white;">
+          <img src="https://www.svgrepo.com/show/354127/numpy.svg" width="50" height="50" alt="NumPy"/>
         </a>
-        <br>jQuery
+        <br>NumPy
       </td>
+      <!--
       <td align="center" style="border: none;">
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="color: white;">
           <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML"/>
