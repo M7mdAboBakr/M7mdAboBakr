@@ -38,7 +38,7 @@ With a strong focus on attention to detail, I strive for accuracy and precision 
         </a>
         <br>Pandas
       </td>
-      
+      <!--
       <td align="center" style="border: none;">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
           <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/>
