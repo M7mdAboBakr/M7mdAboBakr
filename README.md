@@ -58,10 +58,10 @@ With a strong focus on attention to detail, I strive for accuracy and precision 
       </td>
       <!--
       <td align="center" style="border: none;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="color: white;">
-          <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS"/>
+        <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" style="color: white;">
+          <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*jN3vLj7R8m9BEpOJuMJT-w.png" width="50" height="50" alt="CSS"/>
         </a>
-        <br>CSS
+        <br>BeautifulSoup
       </td> -->
     </tr>
   </tbody>
