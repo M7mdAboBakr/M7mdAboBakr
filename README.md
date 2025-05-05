@@ -8,7 +8,17 @@ I’m Mohamed Abobakr, a Data Science student passionate about uncovering insigh
 With a strong focus on attention to detail, I strive for accuracy and precision in my work, continuously seeking to learn and innovate in the ever-evolving world of data.
 </div>  
 
-</div>  
+</div> 
+
+## 🚀 Explore My Work
+
+Take a closer look at my projects, skills, and achievements through my interactive portfolio.  
+Crafted to showcase not just what I build—but how I think.
+
+🔗 [Visit My Portfolio](https://portfolio-for-m7md.vercel.app/)
+
+
+<!--
 
 # 🖥️ Tech Skills: 
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
@@ -73,7 +83,6 @@ With a strong focus on attention to detail, I strive for accuracy and precision 
 <br/>  
 
 
-<!--
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Mohamed Abo Bakr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mohamed Abobakr 🇵🇸) 
 
