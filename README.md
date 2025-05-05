@@ -56,13 +56,12 @@ With a strong focus on attention to detail, I strive for accuracy and precision 
         </a>
         <br>Streamlit
       </td>
-      <!--
       <td align="center" style="border: none;">
         <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" style="color: white;">
           <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*jN3vLj7R8m9BEpOJuMJT-w.png" width="50" height="50" alt="CSS"/>
         </a>
         <br>BeautifulSoup
-      </td> -->
+      </td> 
     </tr>
   </tbody>
 </table>
