@@ -10,6 +10,7 @@ With a strong focus on attention to detail, I strive for accuracy and precision 
 
 </div> 
 <br>
+
 # 🛠️ Skills
 
 Want to see what I can do in action?  
