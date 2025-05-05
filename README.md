@@ -10,7 +10,7 @@ With a strong focus on attention to detail, I strive for accuracy and precision 
 
 </div> 
 
-#🛠️ Skills
+# 🛠️ Skills
 
 Want to see what I can do in action?  
 Explore my portfolio to get a full picture of my technical skill set, real-world projects, and problem-solving approach.
