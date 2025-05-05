@@ -10,13 +10,12 @@ With a strong focus on attention to detail, I strive for accuracy and precision 
 
 </div> 
 
-## 🚀 Explore My Work
+#🛠️ Skills
 
-Take a closer look at my projects, skills, and achievements through my interactive portfolio.  
-Crafted to showcase not just what I build—but how I think.
+Want to see what I can do in action?  
+Explore my portfolio to get a full picture of my technical skill set, real-world projects, and problem-solving approach.
 
-🔗 [Visit My Portfolio](https://portfolio-for-m7md.vercel.app/)
-
+🔗 [View My Portfolio](https://portfolio-for-m7md.vercel.app/)
 
 <!--
 
