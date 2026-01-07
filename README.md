@@ -3,9 +3,7 @@
 </div>  
 
 # 💫 About Me: 
-I am a detail-oriented data science student with hands-on experience in data analysis and machine learning, Building end-to-end AI models and interactive dashboard.I help businesses grow through advanced analytics and machine learning, optimizing decision-making and driving efficiency. Passionate about uncovering patterns, extracting actionable insights, and developing predictive solutions to solve real-world problems.
-
-With a strong focus on attention to detail, I strive for accuracy and precision in my work, continuously seeking to learn and innovate in the ever-evolving world of data.
+Data scientist with solid experience in data analysis, machine learning and building end-to-end AI solutions using Python. Experienced in data preprocessing, feature engineering, model development and evaluation, with a strong focus on statistical analysis and predictive modeling. Skilled in developing interactive dashboards and data-driven solutions that support decision-making. 
 </div>  
 
 </div> 
@@ -14,7 +12,7 @@ With a strong focus on attention to detail, I strive for accuracy and precision 
 # 🛠️ Skills
 
 Want to see what I can do in action?  
-Explore my portfolio to see my technical skills, projects, and problem-solving approach.  
+Explore my portfolio to see my technical skills and projects.  
 *NOTE: Currently under editing…*
 
 🔗 [View My Portfolio](https://portfolio-for-m7md.vercel.app/)
