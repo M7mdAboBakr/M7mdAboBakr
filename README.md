@@ -14,8 +14,7 @@ With a strong focus on attention to detail, I strive for accuracy and precision 
 # 🛠️ Skills
 
 Want to see what I can do in action?  
-Explore my portfolio to get a full picture of my technical skill set, real-world projects, and problem-solving approach.
-*Still building...,
+Explore my portfolio to get a full picture of my technical skill set, real-world projects, and problem-solving approach.  *Still building...,
 
 🔗 [View My Portfolio](https://portfolio-for-m7md.vercel.app/)
 
