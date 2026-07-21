@@ -13,7 +13,7 @@ Data scientist with solid experience in data analysis, machine learning and buil
 
 Want to see what I can do in action?  
 Explore my portfolio to see my technical skills and projects.  
-*NOTE: Currently under building…*
+*NOTE: Not Working Yet…*
 
 🔗 [View My Portfolio](https://portfolio-for-m7md.vercel.app/)
 
